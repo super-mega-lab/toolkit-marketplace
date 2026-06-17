@@ -10,7 +10,7 @@
       "name": "sml-toolkit",
       "source": { "source": "url", "url": "https://github.com/super-mega-lab/toolkit.git" },
       "description": "General-purpose developer toolkit for AI coding agents",
-      "version": "0.2.0",
+      "version": "0.3.1",
       "strict": true
     }
   ]
